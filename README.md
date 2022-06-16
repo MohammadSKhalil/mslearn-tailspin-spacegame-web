@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ApexSkylines/Space%20Game/_apis/build/status/Space%20Game%20Pipeline?branchName=main)](https://dev.azure.com/ApexSkylines/Space%20Game/_build/latest?definitionId=71&branchName=main)
 
 # Contributing
 
